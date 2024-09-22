@@ -1,15 +1,15 @@
 # Nexter
+
+## Installer NPM:
+dans la console: npm install
+suivi de: npm start
+compiler avec: npm build:sass
+
  
-CSS project from UDEMY class and teacher Jonas Schemtdmann that uses a lot of grids for the layout.
+## Lien vers le projet: https://trillo-toyoraura.netlify.app/
+### Site web réalisé dans le cadre d'un cours en ligne pour améliorer mes compétences CSS. Focus sur les grids.
 
-# INSTALL NPM DEPENDENCIES
 
-in the terminal;
 
-npm install
 
-# RUN NPM
 
-in the terminal;
-
-npm start
